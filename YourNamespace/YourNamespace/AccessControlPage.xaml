@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YourNamespace.AccessControlPage"
+             Title="Контроль доступа на территорию"
+             BackgroundColor="#f7f7f7">
+
+    <StackLayout Padding="20" Spacing="20">
+
+        
+        <Label Text="Контроль доступа на территорию" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               TextColor="#4CAF50" 
+               HorizontalOptions="Center" />
+
+        
+        <Label Text="Введите идентификатор посетителя (карта/код):" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Entry x:Name="VisitorIdEntry" 
+                   Placeholder="Карта или код" 
+                   FontSize="18" 
+                   BackgroundColor="#ffffff" />
+        </Frame>
+
+        
+        <StackLayout Spacing="15">
+            <Button Text="Проверить доступ" 
+                    BackgroundColor="#4CAF50" 
+                    TextColor="White" 
+                    FontSize="18" 
+                    CornerRadius="10" 
+                    Padding="15" 
+                    Clicked="OnCheckAccessClicked" />
+
+            <Button x:Name="AllowButton" 
+                    Text="Разрешить доступ" 
+                    IsEnabled="False" 
+                    BackgroundColor="#4CAF50" 
+                    TextColor="White" 
+                    FontSize="18" 
+                    CornerRadius="10" 
+                    Padding="15" 
+                    Clicked="OnAllowAccessClicked" />
+
+            <Button x:Name="DenyButton" 
+                    Text="Запретить доступ" 
+                    IsEnabled="False" 
+                    BackgroundColor="#F44336" 
+                    TextColor="White" 
+                    FontSize="18" 
+                    CornerRadius="10" 
+                    Padding="15" 
+                    Clicked="OnDenyAccessClicked" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

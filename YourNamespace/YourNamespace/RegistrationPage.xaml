@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YourNamespace.RegistrationPage"
+             Title="Регистрация"
+             BackgroundColor="#f7f7f7">
+
+    <StackLayout Padding="20" Spacing="20">
+
+        
+        <Label Text="Регистрация" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               TextColor="#4CAF50" 
+               HorizontalOptions="Center" />
+
+        
+        <Label Text="ФИО" FontSize="18" TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Entry x:Name="FullNameEntry" 
+                   Placeholder="Введите ФИО" 
+                   FontSize="18" 
+                   BackgroundColor="#ffffff" 
+                   Margin="0,10" />
+        </Frame>
+
+        
+        <Label Text="Контактный номер" FontSize="18" TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Entry x:Name="PhoneNumberEntry" 
+                   Placeholder="Введите номер телефона" 
+                   Keyboard="Telephone" 
+                   FontSize="18" 
+                   BackgroundColor="#ffffff" 
+                   Margin="0,10" />
+        </Frame>
+
+        
+        <Label Text="Email" FontSize="18" TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Entry x:Name="EmailEntry" 
+                   Placeholder="Введите Email" 
+                   Keyboard="Email" 
+                   FontSize="18" 
+                   BackgroundColor="#ffffff" 
+                   Margin="0,10" />
+        </Frame>
+
+        
+        <Button Text="Зарегистрироваться" 
+                BackgroundColor="#4CAF50" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnRegisterClicked" />
+
+        
+        <Button Text="Оплатить" 
+                BackgroundColor="#FF9800" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnGoToPaymentPageClicked" />
+
+       
+        <Button Text="Генерация отчетов" 
+                BackgroundColor="#3F51B5" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnGoToReportPageClicked" />
+
+        
+        <Button Text="Контроль доступа" 
+                BackgroundColor="#9C27B0" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnGoToAccessControlPageClicked" />
+
+    </StackLayout>
+</ContentPage>

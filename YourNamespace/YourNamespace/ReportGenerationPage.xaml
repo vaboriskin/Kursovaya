@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YourNamespace.ReportGenerationPage"
+             Title="Генерация отчетов"
+             BackgroundColor="#f7f7f7">
+
+    <StackLayout Padding="20" Spacing="20">
+
+        
+        <Label Text="Генерация отчетов" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               TextColor="#4CAF50" 
+               HorizontalOptions="Center" />
+
+        
+        <Label Text="Выберите тип отчета:" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Picker x:Name="ReportTypePicker" 
+                    FontSize="18" 
+                    BackgroundColor="#ffffff" />
+        </Frame>
+
+        
+        <Label Text="Период отчета:" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <StackLayout Orientation="Horizontal" Spacing="15">
+            <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+                <DatePicker x:Name="StartDatePicker" 
+                            FontSize="18" 
+                            BackgroundColor="#ffffff" />
+            </Frame>
+            <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+                <DatePicker x:Name="EndDatePicker" 
+                            FontSize="18" 
+                            BackgroundColor="#ffffff" />
+            </Frame>
+        </StackLayout>
+
+        
+        <Button Text="Сгенерировать отчет" 
+                BackgroundColor="#4CAF50" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnGenerateReportClicked" />
+
+        <Button Text="Сохранить отчет" 
+                BackgroundColor="#FF9800" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnSaveReportClicked" />
+
+    </StackLayout>
+</ContentPage>

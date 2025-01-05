@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YourNamespace.PaymentPage"
+             Title="Оплата услуг"
+             BackgroundColor="#f7f7f7">
+
+    <StackLayout Padding="20" Spacing="20">
+
+        
+        <Label Text="Оплата услуг" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               TextColor="#4CAF50" 
+               HorizontalOptions="Center" />
+
+        
+        <Label Text="Общая сумма к оплате: 10000 руб" 
+               FontSize="Large" 
+               TextColor="#333333"
+               HorizontalOptions="Center" />
+
+       
+        <Label Text="Выберите метод оплаты:" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Picker x:Name="PaymentMethodPicker" 
+                    FontSize="18" 
+                    BackgroundColor="#ffffff" />
+        </Frame>
+
+        
+        <Button Text="Оплатить" 
+                BackgroundColor="#4CAF50" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnPayClicked" />
+
+    </StackLayout>
+</ContentPage>

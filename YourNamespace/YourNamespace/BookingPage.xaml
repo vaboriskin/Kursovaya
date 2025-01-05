@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YourNamespace.BookingPage"
+             Title="Бронирование тренировки"
+             BackgroundColor="#f7f7f7">
+
+    <StackLayout Padding="20" Spacing="20">
+
+        
+        <Label Text="Бронирование тренировки" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               TextColor="#4CAF50" 
+               HorizontalOptions="Center" />
+
+        
+        <Label Text="Тип тренировки" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Picker x:Name="TrainingTypePicker" 
+                    FontSize="18" 
+                    BackgroundColor="#ffffff" />
+        </Frame>
+
+        
+        <Label Text="Дата и время" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <StackLayout Orientation="Horizontal" Spacing="15">
+            <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+                <DatePicker x:Name="DatePicker" 
+                            FontSize="18" 
+                            BackgroundColor="#ffffff" />
+            </Frame>
+            <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+                <TimePicker x:Name="TimePicker" 
+                            FontSize="18" 
+                            BackgroundColor="#ffffff" />
+            </Frame>
+        </StackLayout>
+
+        
+        <Label Text="Тренер" 
+               FontSize="18" 
+               TextColor="#333333" />
+        <Frame HasShadow="True" BorderColor="#4CAF50" CornerRadius="10" Padding="0">
+            <Picker x:Name="TrainerPicker" 
+                    FontSize="18" 
+                    BackgroundColor="#ffffff" />
+        </Frame>
+
+       
+        <Button Text="Подтвердить бронирование" 
+                BackgroundColor="#4CAF50" 
+                TextColor="White" 
+                FontSize="18" 
+                CornerRadius="10" 
+                Padding="15" 
+                VerticalOptions="Center" 
+                Clicked="OnConfirmBookingClicked" />
+    </StackLayout>
+</ContentPage>

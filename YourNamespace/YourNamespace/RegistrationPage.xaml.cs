@@ -12,7 +12,14 @@ namespace YourNamespace
 
         private async void OnRegisterClicked(object sender, EventArgs e)
         {
-            
+            string fullName = FullNameEntry.Text;
+            string phoneNumber = PhoneNumberEntry.Text;
+            string email = EmailEntry.Text;
+            if (string.IsNullOrWhiteSpace(fullName) || string.IsNullOrWhiteSpace(phoneNumber) || string.IsNullOrWhiteSpace(email))
+            {
+                await DisplayAlert("Ошибка", "Все поля должны быть заполнены", "OK");
+                return;
+            }
             await DisplayAlert("Регистрация", "Регистрация успешна", "Ок");
 
             

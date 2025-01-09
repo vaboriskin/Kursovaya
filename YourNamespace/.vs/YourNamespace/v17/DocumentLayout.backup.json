@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "D:\\C\u002B\u002BREU\\YourNamespace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\reportgenerationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\reportgenerationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\reportgenerationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\reportgenerationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\registrationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\registrationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\bookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\bookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\bookingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\bookingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\reportgenerationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\reportgenerationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\accesscontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\accesscontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\bookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\bookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\paymentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\paymentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\reportgenerationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\reportgenerationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\bookingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|solutionrelative:yournamespace\\bookingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35900916-BF83-49C1-BEEB-32FFBDAB7233}|YourNamespace\\YourNamespace.csproj|d:\\c\u002B\u002Breu\\yournamespace\\yournamespace\\accesscontrolpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
@@ -82,39 +82,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerationPage.xaml.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\ReportGenerationPage.xaml.cs",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml.cs",
+              "RelativeToolTip": "YourNamespace\\ReportGenerationPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:26:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PaymentPage.xaml",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml",
-              "RelativeDocumentMoniker": "YourNamespace\\PaymentPage.xaml",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml",
-              "RelativeToolTip": "YourNamespace\\PaymentPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T13:06:58.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingPage.xaml",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml",
-              "RelativeDocumentMoniker": "YourNamespace\\BookingPage.xaml",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml",
-              "RelativeToolTip": "YourNamespace\\BookingPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T12:57:03.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "BookingPage.xaml.cs",
               "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml.cs",
               "RelativeDocumentMoniker": "YourNamespace\\BookingPage.xaml.cs",
               "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml.cs",
               "RelativeToolTip": "YourNamespace\\BookingPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T12:57:48.959Z",
               "EditorCaption": ""
@@ -122,97 +109,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\MainPage.xaml",
-              "RelativeDocumentMoniker": "YourNamespace\\MainPage.xaml",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\MainPage.xaml",
-              "RelativeToolTip": "YourNamespace\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T13:25:14.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationPage.xaml",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml",
-              "RelativeDocumentMoniker": "YourNamespace\\RegistrationPage.xaml",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml",
-              "RelativeToolTip": "YourNamespace\\RegistrationPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T12:56:54.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReportGenerationPage.xaml",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml",
-              "RelativeDocumentMoniker": "YourNamespace\\ReportGenerationPage.xaml",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml",
-              "RelativeToolTip": "YourNamespace\\ReportGenerationPage.xaml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T13:09:18.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReportGenerationPage.xaml.cs",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml.cs",
-              "RelativeDocumentMoniker": "YourNamespace\\ReportGenerationPage.xaml.cs",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml.cs",
-              "RelativeToolTip": "YourNamespace\\ReportGenerationPage.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:26:14.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccessControlPage.xaml.cs",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\AccessControlPage.xaml.cs",
-              "RelativeDocumentMoniker": "YourNamespace\\AccessControlPage.xaml.cs",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\AccessControlPage.xaml.cs",
-              "RelativeToolTip": "YourNamespace\\AccessControlPage.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:09:57.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegistrationPage.xaml.cs",
-              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml.cs",
-              "RelativeDocumentMoniker": "YourNamespace\\RegistrationPage.xaml.cs",
-              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml.cs",
-              "RelativeToolTip": "YourNamespace\\RegistrationPage.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:25:49.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "PaymentPage.xaml.cs",
               "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml.cs",
               "RelativeDocumentMoniker": "YourNamespace\\PaymentPage.xaml.cs",
               "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml.cs",
               "RelativeToolTip": "YourNamespace\\PaymentPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:19:49.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "YourNamespace\\MainPage.xaml.cs",
@@ -225,6 +134,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\RegistrationPage.xaml.cs",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "YourNamespace\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:25:49.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingPage.xaml",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml",
+              "RelativeDocumentMoniker": "YourNamespace\\BookingPage.xaml",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\BookingPage.xaml",
+              "RelativeToolTip": "YourNamespace\\BookingPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T12:57:03.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "YourNamespace\\RegistrationPage.xaml",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\RegistrationPage.xaml",
+              "RelativeToolTip": "YourNamespace\\RegistrationPage.xaml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T12:56:54.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessControlPage.xaml.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\AccessControlPage.xaml.cs",
+              "RelativeDocumentMoniker": "YourNamespace\\AccessControlPage.xaml.cs",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\AccessControlPage.xaml.cs",
+              "RelativeToolTip": "YourNamespace\\AccessControlPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:09:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\MainPage.xaml",
+              "RelativeDocumentMoniker": "YourNamespace\\MainPage.xaml",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\MainPage.xaml",
+              "RelativeToolTip": "YourNamespace\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T13:25:14.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportGenerationPage.xaml",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml",
+              "RelativeDocumentMoniker": "YourNamespace\\ReportGenerationPage.xaml",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\ReportGenerationPage.xaml",
+              "RelativeToolTip": "YourNamespace\\ReportGenerationPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T13:09:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentPage.xaml",
+              "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml",
+              "RelativeDocumentMoniker": "YourNamespace\\PaymentPage.xaml",
+              "ToolTip": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\PaymentPage.xaml",
+              "RelativeToolTip": "YourNamespace\\PaymentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T13:06:58.225Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AccessControlPage.xaml",
               "DocumentMoniker": "D:\\C\u002B\u002BREU\\YourNamespace\\YourNamespace\\AccessControlPage.xaml",
@@ -233,8 +231,7 @@
               "RelativeToolTip": "YourNamespace\\AccessControlPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T13:09:48.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:09:48.396Z"
             },
             {
               "$type": "Document",
@@ -246,8 +243,7 @@
               "RelativeToolTip": "YourNamespace\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T13:24:06.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:24:06.039Z"
             },
             {
               "$type": "Document",
@@ -259,8 +255,7 @@
               "RelativeToolTip": "YourNamespace\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:58:00.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T12:58:00.149Z"
             },
             {
               "$type": "Document",
@@ -272,8 +267,7 @@
               "RelativeToolTip": "YourNamespace\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:24:19.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:24:19.588Z"
             }
           ]
         }

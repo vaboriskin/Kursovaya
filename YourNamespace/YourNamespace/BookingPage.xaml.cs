@@ -29,9 +29,10 @@ namespace YourNamespace
         }
 
         private async void OnConfirmBookingClicked(object sender, EventArgs e)
-        {
-            
-            await DisplayAlert("Бронирование", "Тренировка забронирована", "Ок");
-        }
+{ string trainingType = TrainingTypePicker.SelectedItem.ToString();
+	DateTime selectedDate = DatePicker.Date;
+	TimeSpan selectedTime = TimePicker.Time;
+	await DisplayAlert("Успех", $"Тренировка успешно забронирована на {selectedDate.ToShortDateString()} в {selectedTime}", "OK"); }
+
     }
 }

@@ -4,8 +4,8 @@
              x:Class="YourNamespace.RegistrationPage"
              Title="Регистрация"
              BackgroundColor="#f7f7f7">
-
-    <StackLayout Padding="20" Spacing="20">
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="20">
 
         
         <Label Text="Регистрация" 
@@ -87,4 +87,5 @@
                 Clicked="OnGoToAccessControlPageClicked" />
 
     </StackLayout>
+      </ScrollView>
 </ContentPage>

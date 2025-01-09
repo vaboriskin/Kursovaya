@@ -25,17 +25,19 @@ namespace YourNamespace
         private async void OnPayClicked(object sender, EventArgs e)
         {
             
-            string selectedMethod = PaymentMethodPicker.SelectedItem?.ToString();
+            if (PaymentMethodPicker.SelectedItem == null)
+            {
+                await DisplayAlert("Ошибка", "Пожалуйста, выберите метод оплаты", "OK");
+                return; 
+            }
 
             
-            if (!string.IsNullOrEmpty(selectedMethod))
-            {
-                await DisplayAlert("Оплата", $"Вы выбрали метод: {selectedMethod}. Оплата прошла успешно!", "Ок");
-            }
-            else
-            {
-                await DisplayAlert("Ошибка", "Выберите метод оплаты", "Ок");
-            }
+            string selectedPaymentMethod = PaymentMethodPicker.SelectedItem.ToString();
+
+            
+            await DisplayAlert("Оплата", $"Оплата выполнена через {selectedPaymentMethod}", "OK");
         }
+
+
     }
 }

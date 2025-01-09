@@ -24,23 +24,36 @@ namespace YourNamespace
 
         private async void OnGenerateReportClicked(object sender, EventArgs e)
         {
-            string reportType = ReportTypePicker.SelectedItem?.ToString();
-
            
-            if (StartDatePicker.Date > EndDatePicker.Date)
+            if (ReportTypePicker.SelectedItem == null)
             {
-                await DisplayAlert("Ошибка", "Дата начала не может быть позже даты конца", "Ок");
-                return;
+                await DisplayAlert("Ошибка", "Пожалуйста, выберите тип отчета", "OK");
+                return; 
             }
 
             
-            await DisplayAlert("Отчет", $"Тип отчета: {reportType}\nПериод: {StartDatePicker.Date.ToShortDateString()} - {EndDatePicker.Date.ToShortDateString()}", "Ок");
+            if (StartDatePicker.Date == null || EndDatePicker.Date == null)
+            {
+                await DisplayAlert("Ошибка", "Пожалуйста, выберите период отчета", "OK");
+                return; 
+            }
+
+            string reportType = ReportTypePicker.SelectedItem.ToString();
+            DateTime startDate = StartDatePicker.Date;
+            DateTime endDate = EndDatePicker.Date;
+
+            
+            await DisplayAlert("Отчет", $"Отчет типа {reportType} с {startDate.ToShortDateString()} по {endDate.ToShortDateString()}", "OK");
         }
 
         private async void OnSaveReportClicked(object sender, EventArgs e)
         {
             
-            await DisplayAlert("Отчет", "Отчет сохранен", "Ок");
+            await DisplayAlert("Отчет", "Отчет успешно сохранен", "OK");
         }
+
+
+
+
     }
 }
